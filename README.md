@@ -14,9 +14,6 @@ Basically to easy answer the following questions:
 
 - Simple list of all one-octave notes
 
-## Dependencies
-AudioKit Tonic: https://github.com/AudioKit/Tonic.git
-
 # How to use?
         
 ### Get all Notes included in a specific note and scale
@@ -47,4 +44,6 @@ MusicLogic.scales
 MusicLogic.notes
 ```
 
+## Dependencies & Thanks
+AudioKit Tonic: https://github.com/AudioKit/Tonic.git
 
