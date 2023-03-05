@@ -14,7 +14,7 @@ Basically to easy answer the following questions:
 
 - Simple list of all one-octave notes
 
-# 🙉 How to use?
+## 🙉 How to use?
         
 ### Get all Notes included in a specific note and scale
 ```swift
