@@ -1,7 +1,7 @@
-# MusicLogic
+# 🎼 🎶 MusicLogic 🎹 🎸
 A simple Swift abstraction layer of AudioKit Tonic package to play with Scales, notes and chords.
 
-## Why?
+## 🙋 Why?
 Basically to easy answer the following questions:
 
 - What are the notes belonging to a scale and tone?
@@ -14,7 +14,7 @@ Basically to easy answer the following questions:
 
 - Simple list of all one-octave notes
 
-# How to use?
+# 🙉 How to use?
         
 ### Get all Notes included in a specific note and scale
 ```swift
@@ -44,6 +44,6 @@ MusicLogic.scales
 MusicLogic.notes
 ```
 
-## Dependencies & Thanks
+## 🗄 Dependencies & Thanks
 AudioKit Tonic: https://github.com/AudioKit/Tonic.git
 
